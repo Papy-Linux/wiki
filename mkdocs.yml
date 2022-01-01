@@ -25,9 +25,6 @@ nav:
   - rustdesk.md
   - contributing.md
 
-repo_url: https://github.com/victorbnl/papy-linux
-repo_name: victorbnl/papy-linux
-
 extra_css:
   - stylesheets/extra.css
 
